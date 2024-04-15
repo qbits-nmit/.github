@@ -32,4 +32,4 @@ Whether you're a seasoned researcher or a curious novice, the Q-Bits Club welcom
 
 **Location**: Electrical and Electronics Department, Nitte Meenakshi Institute of Technology
 
-**Contact**: [Email Address](mailto:qbits@nmit.ac.in?subject=GitHub) |
+**Contact**: [Email Address](mailto:qbits@nmit.ac.in?subject=GitHub) | [LinkedIn](https://www.linkedin.com/company/qbitsnmit/) | [Instagram](https://www.instagram.com/qbits_nmit/) | [Discord](discord.com/invite/pJB5zKGPZt)
